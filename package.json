@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive './**/tests/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-cart3r/advent-of-code-2019.git"
+  },
+  "author": "Benjamin Carter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-cart3r/advent-of-code-2019/issues"
+  },
+  "homepage": "https://github.com/ben-cart3r/advent-of-code-2019#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
